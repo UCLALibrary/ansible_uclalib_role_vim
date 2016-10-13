@@ -1,0 +1,4 @@
+---
+
+- name: install the latest version of Vim
+  yum: name=vim state=latest
