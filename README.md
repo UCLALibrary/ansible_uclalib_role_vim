@@ -23,7 +23,7 @@ Example Playbook
 
 ```
 ---
-    - name: uclalib_git_app.yml
+    - name: uclalib_vim_app.yml
       sudo: true
       hosts: servers
 
