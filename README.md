@@ -1,4 +1,4 @@
-UCLALib Ansible Role: Vim
+Role Name [![Build Status](https://travis-ci.org/UCLALibrary/uclalib_role_vim.svg?branch=master)](https://travis-ci.org/UCLALibrary/uclalib_role_vim)
 =========
 
 Installs the Vim editor
@@ -35,5 +35,9 @@ Example Playbook
 License
 -------
 
-BSD
+BSD 3-Clause
 
+Author Information
+------------------
+
+Hardy Pottinger, UCLA Library
